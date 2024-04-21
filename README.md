@@ -13,6 +13,9 @@ This pdf file contains the research paper of Zhenjie Qu, which is referenced in 
 ## Data Compressions Graph
 This MATLAB file produces a graph of the data compression of a Best Rank k approximation for the Singular Value Decomposition Algorithm.
 
+## KSVD
+This ipynb file simulates the K-SVD algorithm on an over complete dictionary.
+
 ## Math 4W03 Journal
 This word document outlines the dated journal of work done throughout the research paper.
 
