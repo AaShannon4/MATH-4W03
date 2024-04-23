@@ -10,6 +10,12 @@ This ipynb file creates a neural network that classifies the mnist data set (num
 ## Compressed_Sensing_Fourier
 This MATLAB file creates a sparse signal in a Fourier basis, and applies the compressed sensing algorithm to reconstruct the signal in the spike basis.
 
+## Compressed_Sensing_Image
+This MATLAB file takes a smaller section of the full grey-scale cameraman image and applies both the least squares approximation and the compressed sensing algorithm to reconstruct the image with a smaller number of measurements.
+
+## Compressed_Sensing_Random
+This MATLAB file produces a random colour image and applies both the least squares approximation and the compressed sensing algorithm to reconstruct the random image with a smaller number of measurements.
+
 ## Compressive Sampling
 This pdf file contains the research paper of Zhenjie Qu, which is referenced in my research paper.
 
