@@ -7,6 +7,9 @@ This ipynb file creates a neural network that classifies randomly generated data
 ## Compressed_Neural_Network_mnist
 This ipynb file creates a neural network that classifies the mnist data set (numbers 0-9), then compresses the final weights using SVD to create a compressed neural network. The accuracies of both networks are compared to test how well the compressed newtork can replicate the original classifications.
 
+## Compressed_Sensing_Fourier
+This MATLAB file creates a sparse signal in a Fourier basis, and applies the compressed sensing algorithm to reconstruct the signal in the spike basis.
+
 ## Compressive Sampling
 This pdf file contains the research paper of Zhenjie Qu, which is referenced in my research paper.
 
