@@ -28,6 +28,9 @@ This ipynb file simulates the K-SVD algorithm on an over complete dictionary.
 ## Math 4W03 Journal
 This word document outlines the dated journal of work done throughout the research paper.
 
+## Math 4W03 Report
+This pdf is the final research paper.
+
 ## The Implementation of Singular Value Decomposition in Machine Learning
 This pdf file contains the research paper of Lily Seebach, which is referenced in my research paper.
 
